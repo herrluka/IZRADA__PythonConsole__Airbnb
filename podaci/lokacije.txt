@@ -1,0 +1,2 @@
+60.123|50.12345|20|Sutjeska|21000|Novi Sad
+60.12123|50.12565|113/b|Radnicka|21000|Novi Sad
